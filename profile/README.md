@@ -11,7 +11,11 @@
 </div>  
 
 ---
+## Installation Guide  
 
+1. Go to the installation site using the button above.
+2. Follow the instructions on the installation page to install the program correctly
+---
 ## What is Mimestream Mac?
 
 **Mimestream Mac** is a fully native Gmail client built specifically for macOS. It provides the speed, responsiveness, and system integration that web-based Gmail cannot match, while maintaining full compatibility with Gmail’s features such as labels, threads, and search.  
